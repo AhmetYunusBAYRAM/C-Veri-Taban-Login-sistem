@@ -1,0 +1,11 @@
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\ahmet\Desktop\Kütüphane_Proje_Form\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form2.resources
